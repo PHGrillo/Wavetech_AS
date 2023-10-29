@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "973967324125",
+    "project_id": "wavetech-32da2",
+    "storage_bucket": "wavetech-32da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973967324125:android:698f852cd421307a013c34",
+        "android_client_info": {
+          "package_name": "com.wavetech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973967324125-3tiiuan0ri9knj0kc6rnbqlpqfta4dfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wavetech",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "973967324125-627pmh02161lm969fe98fup7u8jo2d82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wavetech",
+            "certificate_hash": "d724802670640a33c7674536595d62a6ea451032"
+          }
+        },
+        {
+          "client_id": "973967324125-1l8mmr31vmrq7sq8ak51dm7ackreb0m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_cMewSOfnYUVmvhrIGmW9utXGYDlvDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973967324125-1l8mmr31vmrq7sq8ak51dm7ackreb0m5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973967324125-s395kij4lvf1cv6e49p3ive8lshpnhb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wavetech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

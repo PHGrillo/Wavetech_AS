@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wavetech</string>
+    <string name="login">Login</string>
+    <string name="email">Digite o seu e-mail</string>
+    <string name="password">Digite a sua senha</string>
+    <string name="naoPossuiConta">Não possui uma conta?</string>
+    <string name="Cadastre">Cadastre-se</string>
+</resources>
